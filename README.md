@@ -29,10 +29,147 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
+<div align="center">
+    <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
+        <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Algorithms and Data Structure</strong>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Python</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" alt="java" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Java</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=cs" alt="C++" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">C#</span>
+            </td>
+            
+        </tr>
+                <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Frontend</strong>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=html" alt="React" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Html</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=css" alt="Tailwind" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">CSS</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" alt="Tailwind" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">JavaScript</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" alt="Bootstrap" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">TypeScript</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">React</span>
+            </td>
+            
+        </tr>
+        <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Backend</strong>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=dotnet" alt="Flask" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">.Net</span>
+            </td>
+             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Flask</span>
+            </td>
+             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" alt="Flask" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Django</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">FastAPI</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Node.js</span>
+            </td>
+        </tr>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+        <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Database</strong>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">PostgreSQL</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">MySQL</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">MongoDB</span>
+            </td>
+           
+        </tr>
+        <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Data Analysis</strong>
+            </td>
+             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Python</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">SQL</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="POWER BI" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Power BI</span>
+            </td>
+             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Excel</span>
+            </td>
+        </tr>
+           <tr>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <strong style="color: #f0f0f0;">Data Science and AI</strong>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=YdWYmkZd5rxx&format=png&color=000000" alt="ML" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Machine Learning</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" alt="DL" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Deep Learning</span>
+            </td>
+            <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+                <img src="https://img.icons8.com/?size=100&id=Fc8jfmNVFcMq&format=png&color=000000" alt="NLP" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">Natural Language Processing</span>
+            </td>
+        </tr>
+     
+    </table>
+</div>
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
 
 
 
