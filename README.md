@@ -25,7 +25,6 @@
 
 
 
-<h3 align="left">🏷 Languages and Tools:</h3>
 <div align="center">
     <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
         <tr>
@@ -41,49 +40,55 @@
                 <br><span style="color: #f0f0f0;">Java</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://skillicons.dev/icons?i=cs" alt="C++" width="48" height="48" />
+                <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">C#</span>
-            </td>            
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
         </tr>
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <strong style="color: #f0f0f0;">Frontend</strong>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://skillicons.dev/icons?i=html" alt="React" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">Html</span>
+                <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">HTML</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://skillicons.dev/icons?i=css" alt="Tailwind" width="48" height="48" />
+                <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">CSS</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" alt="Tailwind" width="48" height="48" />
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" alt="JavaScript" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">JavaScript</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" alt="Bootstrap" width="48" height="48" />
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" alt="TypeScript" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">TypeScript</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">React</span>
-            </td>     
+            </td>
         </tr>
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <strong style="color: #f0f0f0;">Backend</strong>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://skillicons.dev/icons?i=dotnet" alt="Flask" width="48" height="48" />
-                <br><span style="color: #f0f0f0;">.Net</span>
+                <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" />
+                <br><span style="color: #f0f0f0;">.NET</span>
             </td>
              <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Flask</span>
             </td>
              <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" alt="Flask" width="48" height="48" />
+                <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" alt="Django" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Django</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
@@ -110,7 +115,13 @@
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">MongoDB</span>
-            </td>    
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
         </tr>
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
@@ -125,12 +136,15 @@
                 <br><span style="color: #f0f0f0;">SQL</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="POWER BI" width="48" height="48" />
+                <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Power BI</span>
             </td>
              <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Excel</span>
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
             </td>
         </tr>
            <tr>
@@ -138,22 +152,26 @@
                 <strong style="color: #f0f0f0;">Data Science and AI</strong>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://img.icons8.com/?size=100&id=YdWYmkZd5rxx&format=png&color=000000" alt="ML" width="48" height="48" />
+                <img src="https://img.icons8.com/?size=100&id=YdWYmkZd5rxx&format=png&color=000000" alt="Machine Learning" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Machine Learning</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" alt="DL" width="48" height="48" />
+                <img src="https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000" alt="Deep Learning" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Deep Learning</span>
             </td>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-                <img src="https://img.icons8.com/?size=100&id=Fc8jfmNVFcMq&format=png&color=000000" alt="NLP" width="48" height="48" />
+                <img src="https://img.icons8.com/?size=100&id=Fc8jfmNVFcMq&format=png&color=000000" alt="Natural Language Processing" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Natural Language Processing</span>
             </td>
-        </tr>    
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
+            <td align="center" width="120" style="background-color: transparent; border-radius: 10px; padding: 10px;">
+                <!-- Boş hücre -->
+            </td>
+        </tr>
     </table>
 </div>
-
-
  
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  </p>
