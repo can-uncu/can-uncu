@@ -18,7 +18,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&background=2823FF00&width=435&lines=Welcome+to+My+GitHub+Profile!;DATA+ANALYST;DATA+SCIENCE;Data+ENGINEERING;Always+learning+new+stuffs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&background=2823FF00&center=true&vCenter=true&width=650&height=120&lines=Welcome+to+My+GitHub+Profile!;DATA+ANALYST;DATA+SCIENCE;Data+ENGINEERING;Always+learning+new+stuffs" alt="Typing SVG" /></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
