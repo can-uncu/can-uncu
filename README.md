@@ -1,20 +1,3 @@
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=can-uncu&&style=plastics&&color=yellow" align="right"/> </p>
-
- <h2 align="center"> 
- </h2> 
-
-
-
-<div id="header" align="left">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Can+Uncu+Github%7C;+Please+follow+me%7C;+You+can+check+my+repositories%7C)
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
@@ -22,10 +5,28 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
+
+
+
+---
+
+## About Me
+
+<img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
+
+🔎 Jr. Data Analyst & Software Developer — passionate about data science, machine learning, and deep learning.  
+📊 Skilled in Python, SQL, Power BI, and data analytics tools to deliver data-driven insights.  
+🌱 Curious, collaborative, and growth-oriented engineer, focused on building AI-powered solutions.  
+
+
+
+
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 <h3 align="left">🏷 Languages and Tools:</h3>
-
-
-
 
 <div align="center">
     <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
