@@ -7,24 +7,18 @@
  </h2> 
 
 
-<!-- Coder Uncle Pic -->
+
 <div id="header" align="left">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 
 
-
-
-
-
-<!--<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
-<a href="https://discord.gg/hanzelkaraagac">
-<strong> Click here to join our Discord server ⬅️ </a>-->
-
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Can+Uncu+Github%7C;+Please+follow+me%7C;+You+can+check+my+repositories%7C)
 
-<h3 align="left">Skills:|  Algorithms | Data Structures | Java | C# | Python  | Git - GitHub | Html - Css -Js | SQL | PostgreSQL | MSSQL | </h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&background=2823FF00&width=435&lines=Welcome+to+My+GitHub+Profile!;DATA+ANALYST;DATA+SCIENCE;Data+ENGINEERING;Always+learning+new+stuffs" alt="Typing SVG" /></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
