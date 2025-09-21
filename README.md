@@ -29,6 +29,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
+
+
+<h3 align="left">🏷 Languages and Tools:</h3>
 <div align="center">
     <table style="border-collapse: separate; border-spacing: 10px; background: transparent; margin: 0 auto;">
         <tr>
@@ -46,10 +49,9 @@
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://skillicons.dev/icons?i=cs" alt="C++" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">C#</span>
-            </td>
-            
+            </td>            
         </tr>
-                <tr>
+        <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <strong style="color: #f0f0f0;">Frontend</strong>
             </td>
@@ -72,8 +74,7 @@
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">React</span>
-            </td>
-            
+            </td>     
         </tr>
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
@@ -100,7 +101,6 @@
                 <br><span style="color: #f0f0f0;">Node.js</span>
             </td>
         </tr>
-
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <strong style="color: #f0f0f0;">Database</strong>
@@ -116,8 +116,7 @@
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
                 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">MongoDB</span>
-            </td>
-           
+            </td>    
         </tr>
         <tr>
             <td align="center" width="120" style="background-color: #2c2c2c; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
@@ -156,21 +155,9 @@
                 <img src="https://img.icons8.com/?size=100&id=Fc8jfmNVFcMq&format=png&color=000000" alt="NLP" width="48" height="48" />
                 <br><span style="color: #f0f0f0;">Natural Language Processing</span>
             </td>
-        </tr>
-     
+        </tr>    
     </table>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
  
